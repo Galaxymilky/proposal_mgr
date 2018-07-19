@@ -1,0 +1,2 @@
+ALTER TABLE app_proposal_user ADD COLUMN ROLE_ID VARCHAR(10);
+
